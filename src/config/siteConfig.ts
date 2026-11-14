@@ -2,7 +2,7 @@ export const SITE_CONFIG = {
   PROJECT_NAME: 'SNIPETECH',
   TICKER: 'SNIPETECH',
   CA: (import.meta.env.VITE_TOKEN_CA || '').trim(),
-  X_URL: 'https://x.com/Snipetech',
+  X_URL: 'https://x.com/Snipetech_',
   X_HANDLE: 'Snipetech',
   LOGO_SRC: '/assets/aistudio/image_7bee3777.png',
   STAKING: (import.meta.env.VITE_STAKING_CA || '').trim(),
