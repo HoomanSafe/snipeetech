@@ -1,0 +1,6 @@
+{
+  "name": "SNIPETECH",
+  "description": "SNIPETECH — Live screener, one-click Sniper, cross-chain Relay bridge, and on-chain staking for Pons tokens on Robinhood Chain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
